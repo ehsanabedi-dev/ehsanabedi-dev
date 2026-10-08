@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ehsan Abedi 👋
 
-<!--
-**ehsanabedi-dev/ehsanabedi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & Mobile App Developer** based in Famagusta, North Cyprus.
+I build fast, multilingual **WordPress websites** and cross-platform **Flutter mobile apps** for businesses that want a professional online presence.
 
-Here are some ideas to get you started:
+- 🌐 Websites with WordPress, Elementor and WPML — responsive, SEO-friendly and easy to manage
+- 📱 Mobile apps with Flutter & Dart for Android, iOS and the web (PWA)
+- ⚡ Performance-focused: caching, CDN and Core Web Vitals optimization
+- 🎓 MSc in Information Technology @ Eastern Mediterranean University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### 📫 Get in touch
+
+🔗 Portfolio: [ehsanabedi.com](https://ehsanabedi.com)
+
+Open to freelance WordPress and Flutter projects.
