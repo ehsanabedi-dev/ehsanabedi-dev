@@ -19,6 +19,7 @@ I build fast, multilingual **WordPress websites** and cross-platform **Flutter m
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 ![WPML](https://img.shields.io/badge/WPML-1E73BE?style=flat&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-458CF5?style=flat&logo=googlesearchconsole&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📫 Get in touch
